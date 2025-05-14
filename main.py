@@ -12,6 +12,8 @@ def main(page:ft.Page):
     page.window.height=700
     page.window.min_height=700
     page.window.max_height=700
+    
+
 
     page.theme = ft.Theme(        
         color_scheme= ft.ColorScheme(
